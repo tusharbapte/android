@@ -1,0 +1,14 @@
+###### Calgary
+- https://www.flickr.com/photos/naserke/6747717871/
+- https://www.flickr.com/photos/jephy/14840932266/
+- https://www.flickr.com/photos/msvg/15318666887/
+- https://www.flickr.com/photos/davebloggs007/15344143457/
+- https://www.flickr.com/photos/msvg/16152155039/
+- https://www.flickr.com/photos/davebloggs007/9242559183/
+- https://www.flickr.com/photos/davebloggs007/10810678185/
+- https://www.flickr.com/photos/davebloggs007/12173083996/
+- https://www.flickr.com/photos/davebloggs007/12173480035/
+- https://www.flickr.com/photos/davebloggs007/13049272773/
+- https://www.flickr.com/photos/davebloggs007/13519029244/
+- https://www.flickr.com/photos/davebloggs007/8916994251/
+- https://www.flickr.com/photos/davebloggs007/11159139114/
