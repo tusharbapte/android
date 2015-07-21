@@ -1,0 +1,11 @@
+###### Ottawa
+- https://www.flickr.com/photos/15609463@N03/18642544483/
+- https://www.flickr.com/photos/michaelnugent/16548660243/
+- https://www.flickr.com/photos/azerpouak/3915029501/
+- https://www.flickr.com/photos/mrjunyan/3029051604/
+- https://www.flickr.com/photos/dtsang/438186498/
+- https://www.flickr.com/photos/noticelj/4659030018/
+- https://www.flickr.com/photos/noticelj/4659025918/
+- https://www.flickr.com/photos/16329417@N05/17510084661/
+- https://www.flickr.com/photos/ojbyrne/3386621926/
+- https://www.flickr.com/photos/husseinabdallah/3937588883/

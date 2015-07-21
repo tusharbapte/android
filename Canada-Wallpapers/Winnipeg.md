@@ -1,0 +1,16 @@
+###### Winnipeg
+- https://www.flickr.com/photos/ajbatac/7679119642/
+- https://www.flickr.com/photos/ajbatac/8433401828/
+- https://www.flickr.com/photos/ajbatac/8693927670/
+- https://www.flickr.com/photos/ajbatac/7742462740/
+- https://www.flickr.com/photos/ajbatac/7632181430/
+- https://www.flickr.com/photos/ajbatac/7691679088/
+- https://www.flickr.com/photos/ajbatac/7409224440/
+- https://www.flickr.com/photos/pzado/16350800933/
+- https://www.flickr.com/photos/ajbatac/7263000698/
+- https://www.flickr.com/photos/ajbatac/7142420509/
+- https://www.flickr.com/photos/ajbatac/8100527611/
+- https://www.flickr.com/photos/ajbatac/6935404226/
+- https://www.flickr.com/photos/ajbatac/7109616919/
+- https://www.flickr.com/photos/ajbatac/7048937933/
+- https://www.flickr.com/photos/ajbatac/6830025416/
