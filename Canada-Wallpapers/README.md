@@ -2,7 +2,7 @@
 A free app with more than 200 wallpapers from cities across Canada.
 
 #### Content License
-Images on this app are released on Creative Commons Attribution 2.0 Generic (CC BY 2.0) or Attribution-ShareAlike 2.0 Generic CC BY-SA 2.0.
+Images on this app are released under Creative Commons Attribution 2.0 Generic (CC BY 2.0) or Attribution-ShareAlike 2.0 Generic CC BY-SA 2.0 license.
 
 To find the full image attribution including the photographer and original Flickr source for each wallpaper category select the city name from the source files. 
 
