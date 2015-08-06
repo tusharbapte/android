@@ -4,7 +4,7 @@ Farsi Audio Stories is a free, ad supported, app available on Google Play for An
 ![featuree](https://raw.githubusercontent.com/dolatabadi/android/master/Farsi-Audio-Stories/screenshots/feature.png)
 
 ###### Internet connection is required
-This app requires Internet connection to play audio stories. The app will NOT work if you are not connected to the Internet.
+This app requires Internet connection to play audio stories. The app will **NOT** work if you are not connected to the Internet.
 
 ###### New Audio Stories
 New audio stories will be added to the app on monthly basis. No update is necessary to be able to listen to the new audio stories. The app will load the new stories once they are available.
