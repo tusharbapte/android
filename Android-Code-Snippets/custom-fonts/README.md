@@ -9,7 +9,7 @@ sample font directory:
 in your main activity define the font path and load font as follow:
 ```java
 // path for the font
-String fontTitle = "fonts/OpenSans-Regular.ttf";
+String fontTitle = "fonts/font-name.ttf";
 
 // calling Typeface
 Typeface titleFont = Typeface.createFromAsset(getAssets(), fontTitle);
