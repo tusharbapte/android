@@ -23,9 +23,9 @@ private boolean isNetworkConnected() {
 to do work based on network connection: 
 ```java
 // if Internet is available
-if (isNetworkConnected() ){
+if (isNetworkConnected() ) {
     // do some work here
-}else{
+} else {
     // do some work when no Internet
 }
 ```
