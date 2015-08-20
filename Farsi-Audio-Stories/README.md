@@ -18,5 +18,8 @@ You can download the app from [Google Play](https://play.google.com/store/apps/d
 
 #### Version History
 
-######v1.1.0 [2015-08-05]
+######v1.2 [2015-08-19]
+- added support for Android 4.0+ (Ice Cream Sandwich)
+
+######v1.1 [2015-08-05]
 - Initial release
