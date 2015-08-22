@@ -1,6 +1,8 @@
 ## Change overview screen on Lollipop
 Change the overview screen on Lollipop (including icon, label, and top bar color)
 
+Add the following code to `onCreate` method: 
+
 ```java
 if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) 
 {
