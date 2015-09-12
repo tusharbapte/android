@@ -29,3 +29,11 @@ You can download the app from [Google Play](https://play.google.com/store/apps/d
 
 ######v1.1 [2015-08-19]
 - Initial release
+
+## Quoto : Mahatma Gandhi Quotes
+#### Download
+You can download the app from [Google Play](https://play.google.com/store/apps/details?id=com.dolatabadi.quoto.gandhi)
+
+## Quoto : House of Cards Quotes
+#### Download
+You can download the app from [Google Play](https://play.google.com/store/apps/details?id=com.dolatabadi.houseofcards)
